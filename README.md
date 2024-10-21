@@ -8,4 +8,4 @@
 
 ## Article
 - **(24.11 여기어때) &nbsp; [DataSource 를 자유자재로 바꿔보자](https://albbloomer.github.io)**
-- (23.10 ZUMinternet) &nbsp; [실시간 시세 : 데이터 파이프라인 **kafka streams** 적용하기](https://albbloomer.github.io/kafkastreams20231202/)
+- (23.10 FoodLine) &nbsp; [동시성 제어를 위한 **BullQueue** 적용기](https://uncovered-library-f1f.notion.site/BullQueue-12227d2f548080b3bd4afbc32a853bfe?pvs=4)
