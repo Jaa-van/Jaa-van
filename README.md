@@ -1,3 +1,5 @@
+https://img.shields.io/badge/</img src="JavaScript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+
 ## Personal Information
 - name : hyejong choi
 
