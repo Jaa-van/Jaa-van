@@ -1,3 +1,8 @@
+<div>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=HYEJONG%20CHOI&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descAlign=70.5)
+</div>
+
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"> <img alt="node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"><br>
 <img alt="java" src="https://img.shields.io/badge/Java-5382a1?style=flat&logo=java&logoColor=white"> <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img alt="spring-boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
 
