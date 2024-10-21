@@ -8,9 +8,7 @@
 
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=About.me&logoColor=white&flat" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&flat" style="vertical-align:center" /></a>
-<a href="https://www.instagram.com/fine__r/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=flat&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-
-
+<a href="https://www.instagram.com/fine__r/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=flat&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 ## Personal Information
 - name : hyejong choi
 
