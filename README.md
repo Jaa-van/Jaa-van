@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>&nbsp&nbsp
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringRestDocs-6DB33F?style=flat&logo=Spring&logoColor=white"> 
   </div>
 </div>
 </br>
