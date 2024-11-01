@@ -44,7 +44,8 @@
     <h4>Others</h4>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>&nbsp&nbsp
     <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>
+    </br>
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringRestDocs-6DB33F?style=flat&logo=Spring&logoColor=white"> 
   </div>
@@ -53,7 +54,7 @@
 
 <h2> Personal Information </h2>
 
-- name : hyejong choi
+**- Name : Hyejong Choi**
 
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=About.me&logoColor=white&flat" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&flat" style="vertical-align:center" /></a>
