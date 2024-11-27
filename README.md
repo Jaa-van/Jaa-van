@@ -56,7 +56,7 @@
 
 **- Name : Hyejong Choi**
 
-<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=About.me&logoColor=white&flat" style="vertical-align:center" /></a>
+<a href="https://github.com/Jaa-van/Jaa-van/blob/main/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B5%9C%ED%98%9C%EC%A2%85%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=About.me&logoColor=white&flat" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&flat" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/fine__r/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=flat&logo=Instagram&logoColor=E4405F" style="vertical-align:center"/></a>
 
