@@ -58,7 +58,7 @@
 
 **- Name : Hyejong Choi**
 
-<a href="https://drive.google.com/file/d/1aJsvkL7Oe2H1oz9fFkZQN-aO59X5yLOA/view?usp=drive_link" target="_blank"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=About.me&logoColor=white&flat" style="vertical-align:center" /></a>
+<a href="https://drive.google.com/file/d/1bhCzlJRCtogYUEMA9ewwkAhmYCvg-GEl/view?usp=sharing"><img alt="" src="https://img.shields.io/badge/Resume-000?logo=About.me&logoColor=white&flat" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2" style="vertical-align:center"/></a>
 <a href="https://www.instagram.com/fine__r/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=flat&logo=Instagram&logoColor=E4405F" style="vertical-align:center"/></a>
 
