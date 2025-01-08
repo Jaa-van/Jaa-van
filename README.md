@@ -63,7 +63,7 @@
 <a href="https://www.instagram.com/fine__r/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=flat&logo=Instagram&logoColor=E4405F" style="vertical-align:center"/></a>
 
 ## Education & Career 
-- **(23.11 ~) [Saycore](https://www.saycore.io/) - backend web dev**
+- **(23.11 ~) [Saycore](https://www.saycore.io/) - backend web engineer**
 - (23.03 - 23.08) [항해99](https://hanghae99.spartacodingclub.kr/) - backend developer track (node.js)
 - (13.03 - 20.08) [HONGIK UNIVERSITY](https://www.hongik.ac.kr/kr/index.do) - Global Business management
 
