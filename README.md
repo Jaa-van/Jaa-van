@@ -68,6 +68,6 @@
 - (13.03 - 20.08) [HONGIK UNIVERSITY](https://www.hongik.ac.kr/kr/index.do) - Global Business management
 
 ## Article
-- **(24.11)** &nbsp; [**WebFlux 와 비동기**](https://uncovered-library-f1f.notion.site/WebFlux-12227d2f548080929a6fc0c913b93ee9?pvs=4)
-- (24.02) &nbsp; [동시성 제어를 위한 BullQueue 와 Load balancing](https://uncovered-library-f1f.notion.site/BullQueue-12227d2f548080b3bd4afbc32a853bfe?pvs=4)
-- (23.10) &nbsp; [Search engine 과 JMeter 부하 테스트](https://uncovered-library-f1f.notion.site/Search-Engine-12227d2f548080fe85e4c6a10bbe8c5d?pvs=4)
+- **(24.11)** &nbsp; [**WebFlux와 비동기**](https://uncovered-library-f1f.notion.site/WebFlux-12227d2f548080929a6fc0c913b93ee9?pvs=4)
+- (24.02) &nbsp; [동시성 제어를 위한 BullQueue와 Load balancing](https://uncovered-library-f1f.notion.site/BullQueue-12227d2f548080b3bd4afbc32a853bfe?pvs=4)
+- (23.10) &nbsp; [Search engine과 JMeter 부하 테스트](https://uncovered-library-f1f.notion.site/Search-Engine-12227d2f548080fe85e4c6a10bbe8c5d?pvs=4)
